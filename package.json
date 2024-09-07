@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ssfwork.github.io/SfSpace",
+  "homepage": "http://ssfwork.github.io/ssfpace",
   "name": "ssfspace",
   "version": "0.1.0",
   "private": true,
@@ -7,9 +7,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "export": "next export",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "@types/node": "^20.8.2",
