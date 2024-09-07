@@ -1,10 +1,11 @@
 import Image from "next/image"
 import Link from "next/link"
 import Hero from "@/components/hero"
+import AboutImage from "@/public/images/me_tongariro_02.jpg"
 
 export const metadata = {
-  title: "About - DevSpace",
-  description: "Page description",
+  title: "About",
+  description: "About Me",
 }
 
 export default function About() {
@@ -56,7 +57,7 @@ export default function About() {
         <br />
 
         {/* About Image */}
-        <Image className="w-full" src="/images/me_tongariro_02.jpg" width={692} height={390} alt="About" />
+        <Image className="w-full" src={AboutImage} width={692} height={390} alt="About" />
       </div>
 
       {/* Right sidebar */}
