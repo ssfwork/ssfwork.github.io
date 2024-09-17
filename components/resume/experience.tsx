@@ -19,12 +19,16 @@ export default function Experience() {
               </div>
               <div className="font-aspekta font-[650] text-slate-800 dark:text-slate-100">Software Engineer</div>
               <div className="text-sm font-medium text-slate-800 dark:text-slate-100">Gallagher</div>
-              <div className="text-sm text-slate-500 dark:text-slate-400">
+              <p className="text-sm text-justify text-slate-500 dark:text-slate-400">
                 In my role as a Full Stack Software Engineer, I am responsible for for the end-to-end development process,from designing and implementing backend solutions using
                 .Net, to creating efficient and secure databases with PostgreSQL. On the frontend, I use React and TypeScript to build user-friendly interfaces. I also involves
                 working with various AWS services to develop and maintain microservices that drive our applications. In addition, I write comprehensive unit tests and automation
                 tests to ensure the robustness and reliability.
-              </div>
+                <br />
+                <br />I have made significant contributions to our product. I designed and implemented the core component - the "UI Generator", which dynamically converts JSON
+                structures into user-friendly forms, providing flexibility and convenience for customers. Additionally, I developed a request assignment system capable of assigning
+                requests to different level of users, can esily add approval requirements, streamlining workflows and improving efficiency across the board.
+              </p>
             </div>
           </div>
         </li>
@@ -40,11 +44,11 @@ export default function Experience() {
               </div>
               <div className="font-aspekta font-[650] text-slate-800 dark:text-slate-100">Junior Software Engineer</div>
               <div className="text-sm font-medium text-slate-800 dark:text-slate-100">Gallagher</div>
-              <div className="text-sm text-slate-500 dark:text-slate-400">
+              <p className="text-sm text-justify text-slate-500 dark:text-slate-400">
                 In my role as a Junior Software Engineer, I contribute to the full-stack development of a Next.js web application. My responsibilities include designing and
                 implementing new pages, developing and integrating APIs with a .NET backend, and writing unit tests to ensure high code quality. I collaborate closely with UI
                 designers to enhance the user experience by refining the interface and ensuring a seamless design-to-development workflow.
-              </div>
+              </p>
             </div>
           </div>
         </li>
@@ -60,9 +64,9 @@ export default function Experience() {
               </div>
               <div className="font-aspekta font-[650] text-slate-800 dark:text-slate-100">C# Developer</div>
               <div className="text-sm font-medium text-slate-800 dark:text-slate-100">Uxtrata</div>
-              <div className="text-sm text-slate-500 dark:text-slate-400">
+              <p className="text-sm text-justify text-slate-500 dark:text-slate-400">
                 In my role as a developer, I am responsible for maintaining existing web application (.Net, WebForms, MySql) and add new features to meet customer requirements.
-              </div>
+              </p>
             </div>
           </div>
         </li>

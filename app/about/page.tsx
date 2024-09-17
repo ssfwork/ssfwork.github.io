@@ -23,7 +23,7 @@ export default function About() {
             <div className="text-slate-500 dark:text-slate-400 space-y-8">
               <div className="space-y-4">
                 <h2 className="h3 font-aspekta text-slate-800 dark:text-slate-100">Short Bio</h2>
-                <p>
+                <p className="text-justify">
                   I'm an Intermediate Software Engineer with expertise in full-stack development, spanning backend solutions in .NET, PostgreSQL databases, and frontend development
                   using React and TypeScript. My recent work involves leveraging AWS services to build and maintain microservices, with a strong focus on delivering robust, tested
                   solutions.
@@ -34,7 +34,7 @@ export default function About() {
               </div>
               <div className="space-y-4">
                 <h2 className="h3 font-aspekta text-slate-800 dark:text-slate-100">Career</h2>
-                <p>
+                <p className="text-justify">
                   As an Intermediate Software Engineer, I manage the full development cycle, from designing scalable backend systems to creating intuitive user interfaces. My role
                   also includes collaborating with cross-functional teams to ensure seamless integration and optimal performance for our applications.
                 </p>
@@ -42,7 +42,7 @@ export default function About() {
 
               <div className="space-y-4">
                 <h2 className="h3 font-aspekta text-slate-800 dark:text-slate-100">Let's Connect</h2>
-                <p>
+                <p className="text-justify">
                   I'm excited to connect with others via <span className="font-medium text-sky-500">shishunfan+work@gmail.com</span> and{" "}
                   <a className="font-medium text-sky-500 hover:underline" href="https://www.linkedin.com/in/shunfan-shi-370b251b7/" target="_blank" rel="noopener noreferrer">
                     LinkedIn
@@ -57,7 +57,7 @@ export default function About() {
         <br />
 
         {/* About Image */}
-        <Image className="w-full" src={AboutImage} width={692} height={390} alt="About" />
+        <Image className="space-y-4" src={AboutImage} width={692} height={390} alt="About" />
       </div>
 
       {/* Right sidebar */}

@@ -53,7 +53,7 @@ export default function SideNavigation() {
                 </Link>
               </li>
               <li className="py-2">
-                <Link
+                {/* <Link
                   href="/projects"
                   className={`w-full h-6 flex items-center justify-center relative after:absolute after:w-0.5 after:right-0 after:top-0 after:bottom-0 ${
                     pathname.includes("/projects") ? "text-sky-500 after:bg-sky-500" : "text-slate-400 hover:text-slate-500 dark:text-slate-500 dark:hover:text-slate-400"
@@ -64,7 +64,7 @@ export default function SideNavigation() {
                     <path fillOpacity=".16" d="M1 4h18v10H1z" />
                     <path d="M8 3h4V2H8v1ZM6 3V0h8v3h6v12H0V3h6ZM2 5v8h16V5H2Zm14 13v-2h2v4H2v-4h2v2h12Z" />
                   </svg>
-                </Link>
+                </Link> */}
               </li>
             </ul>
           </nav>
