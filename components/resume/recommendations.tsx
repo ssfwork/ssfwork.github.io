@@ -17,7 +17,7 @@ export default function Recommendations() {
             <div className="pl-20 space-y-1">
               <div className="font-aspekta font-[650] text-slate-800 dark:text-slate-100">Daniel King</div>
               <div className="text-sm font-medium text-slate-800 dark:text-slate-100">ARW Team Leader at Gallagher</div>
-              <div className="text-sm text-slate-500 dark:text-slate-400">
+              <div className="text-sm text-justify text-slate-500 dark:text-slate-400">
                 “ Steven has made a significant impact on the team, consistently contributing valuable ideas and solutions during design meetings and team discussions. He is a
                 diligent worker, capable of delivering high-quality code independently. As a strong team player, Steven is always open to feedback, eager to learn, and actively
                 supports his teammates by collaborating on bug fixes and other challenges.
@@ -38,7 +38,7 @@ export default function Recommendations() {
             <div className="pl-20 space-y-1">
               <div className="font-aspekta font-[650] text-slate-800 dark:text-slate-100">Alison Marshall</div>
               <div className="text-sm font-medium text-slate-800 dark:text-slate-100">ARW Value Owner at Gallagher</div>
-              <div className="text-sm text-slate-500 dark:text-slate-400">
+              <div className="text-sm text-justify text-slate-500 dark:text-slate-400">
                 “ Throughout the design, build, testing and issue identification phases of building our clients' workflows, we can rely on Steven to think creatively identify
                 potential solutions, and successfully implement them. As a result,we have significantly saved time in delivering releases to our clients for review. ”
               </div>
@@ -54,7 +54,7 @@ export default function Recommendations() {
             <div className="pl-20 space-y-1">
               <div className="font-aspekta font-[650] text-slate-800 dark:text-slate-100">Radu Nicolescu</div>
               <div className="text-sm font-medium text-slate-800 dark:text-slate-100">Honorary Academic at University of Auckland </div>
-              <div className="text-sm text-slate-500 dark:text-slate-400">
+              <div className="text-sm text-justify text-slate-500 dark:text-slate-400">
                 “ Steven consistently excelled in his MSc studies, handling challenging assignments and mastering difficult topics like functional programming for distributed
                 processing, earning top marks in a demanding course. His independent MSc project on serverless clouds earned first-class honors, and he even contributed solutions
                 to AWS-related problems that benefited his supervisor.

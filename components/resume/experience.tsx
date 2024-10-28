@@ -20,7 +20,7 @@ export default function Experience() {
               <div className="font-aspekta font-[650] text-slate-800 dark:text-slate-100">Software Engineer</div>
               <div className="text-sm font-medium text-slate-800 dark:text-slate-100">Gallagher</div>
               <p className="text-sm text-justify text-slate-500 dark:text-slate-400">
-                In my role as a Full Stack Software Engineer, I am responsible for for the end-to-end development process,from designing and implementing backend solutions using
+                In my role as a Full Stack Software Engineer, I am responsible for for the end-to-end development process, from designing and implementing backend solutions using
                 .Net, to creating efficient and secure databases with PostgreSQL. On the frontend, I use React and TypeScript to build user-friendly interfaces. I also involves
                 working with various AWS services to develop and maintain microservices that drive our applications. In addition, I write comprehensive unit tests and automation
                 tests to ensure the robustness and reliability.

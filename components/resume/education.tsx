@@ -18,7 +18,7 @@ export default function Education() {
               </div>
               <div className="font-aspekta font-[650] text-slate-800 dark:text-slate-100">Master of Computer Science</div>
               <div className="text-sm font-medium text-slate-800 dark:text-slate-100">The University of Auckland</div>
-              <div className="text-sm text-slate-500 dark:text-slate-400">Serverless Computing, Face Recognition, Recommender System.</div>
+              <div className="text-sm text-justify text-slate-500 dark:text-slate-400">Serverless Computing, Face Recognition, Recommender System.</div>
             </div>
           </div>
         </li>
@@ -34,7 +34,7 @@ export default function Education() {
               </div>
               <div className="font-aspekta font-[650] text-slate-800 dark:text-slate-100">Postgraduate Diploma in Computer Science</div>
               <div className="text-sm font-medium text-slate-800 dark:text-slate-100">The University of Auckland</div>
-              <div className="text-sm text-slate-500 dark:text-slate-400">
+              <div className="text-sm text-justify text-slate-500 dark:text-slate-400">
                 Programming Techniques, Algorithms and Data Structures, Computer Graphics and Image Processing, Datamining and Machine Learning, Statistics, etc.
               </div>
             </div>
